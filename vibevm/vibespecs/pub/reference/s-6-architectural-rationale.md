@@ -1,0 +1,17 @@
+# 6. Architectural Rationale {#root}
+
+<status stage="spec" state="done"/>
+
+> Source: Anatoly Levenchuk, *Foundational Thinking DPF Suite Reference* (19 September 2026), `Foundational Thinking DPF Suite/FOUNDATIONAL-THINKING-DPF-SUITE-REFERENCE.md` at https://github.com/ailev/FPF commit d131d30a44e7, licensed CC BY 4.0. One section of the Suite Reference. See LICENSE.md for the list of changes.
+
+**Separate languages preserve developed methods and their different grounds.** Mathematics has constructions and warrants that remain useful across many subjects. Physical premises concern phenomena and possible changes. Computational methods concern how an answer is obtained. Modeling constructs the relation between a question and its mathematical account; notation helps participants perform and interpret the operations. A single large language would make these fields harder to enter and revise independently.
+
+**The Reference preserves connections that a catalogue loses.** A supplied mathematical object does not determine which observation refers to it. A physical law does not by itself supply an affordable calculation. An obtaining procedure must return something the receiving question can use. The entries therefore state intermediate results, conditions, failures and returns. FPF B.5 organizes reasoning and its revision; B.5.MPC and B.5.MPC.R develop coordination and repair for physical questions. This Reference explains selected uses of those contributions while retaining their respective scopes.
+
+**Methods are organized by recurring difficulty and operation.** A thermal balance, optical arrangement, organizational flow or robot can demonstrate a method's use. Its Problem and Solution must still express the general operation when that example is removed. A specialist method belongs in a corresponding narrower body or profile; a broad title cannot enlarge what it teaches.
+
+**Connected increments permit revision of the design.** A construction can reveal a missing operation, duplicated responsibility or incompatible result. The affected architecture then changes while still-useful explanations, proofs, examples and sources are retained. Counting headings or following numerical PatternID order cannot establish coverage. Stable addresses help existing users; Parts and the Table of Contents provide reading order.
+
+**Profiles may overlap and have further refinements.** Specialization adds conditions and methods for a narrower situation. Composition connects contributions; reuse permits one pattern in several profiles; publication grouping organizes the text. These relations can produce a graph rather than one hierarchy. A question about shared generalizations and refinements can call for a further mathematical model. Give the profiles a partial order in which P ≤ Q means P refines Q. A least upper bound is then the most specific common generalization; a greatest lower bound is the most general common refinement. If both exist for every pair, that ordered model is a lattice. Construct it when these common bounds would help answer the question.
+
+Direct use of a textbook or one FPF pattern can be sufficient. The Suite adds value when the work needs developed domain constructions and explicit connections among them. A single applied-engineering collection would instead narrow the promise: pure mathematical construction and development of a physical theory are also intended uses. Factory Physics and operations management are potential applications of the repertoire, not its defining scope.

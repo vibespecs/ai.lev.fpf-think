@@ -1,0 +1,261 @@
+{
+  "code_items": [],
+  "edges": [],
+  "schema": 3,
+  "spec_units": [
+    {
+      "anchor": "root",
+      "content_hash": "sha256:80ce87b7d561586bbf60959d79ee05b8cd510ce1e6975f43a63a71876dc80932",
+      "doc_path": "pub/README",
+      "file": "vibevm/vibespecs/pub/README.md",
+      "heading": "Foundational Thinking DPF Suite",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-think/pub/README#root"
+    },
+    {
+      "anchor": "root-2",
+      "content_hash": "sha256:d21f3045c9373e4d432c1e3ca37e94349844eb15a60f0dbaa040fb5258e34bd0",
+      "doc_path": "pub/README",
+      "file": "vibevm/vibespecs/pub/README.md",
+      "heading": "Foundational Thinking DPF Suite",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-think/pub/README#root-2"
+    },
+    {
+      "anchor": "start-from-a-connected-problem",
+      "content_hash": "sha256:4974981048f46ab0defc45db0d48963ade862395339af4e9ea397999cdfd4c4c",
+      "doc_path": "pub/README",
+      "file": "vibevm/vibespecs/pub/README.md",
+      "heading": "Start from a connected problem",
+      "line": 18,
+      "uri": "spec://ai.lev/fpf-think/pub/README#start-from-a-connected-problem"
+    },
+    {
+      "anchor": "use-the-publications",
+      "content_hash": "sha256:cc27a81be351b7ebd0064d8751acfbc2c4a719fe050af0acc9a969c4c4464a2b",
+      "doc_path": "pub/README",
+      "file": "vibevm/vibespecs/pub/README.md",
+      "heading": "Use the publications",
+      "line": 39,
+      "uri": "spec://ai.lev/fpf-think/pub/README#use-the-publications"
+    },
+    {
+      "anchor": "publications",
+      "content_hash": "sha256:79572252cff0678827e43443dca4f870b9549dd2ccb7ff37c7a9c59f5582f0dd",
+      "doc_path": "pub/README",
+      "file": "vibevm/vibespecs/pub/README.md",
+      "heading": "Publications",
+      "line": 43,
+      "uri": "spec://ai.lev/fpf-think/pub/README#publications"
+    },
+    {
+      "anchor": "purpose-and-continuity",
+      "content_hash": "sha256:3e50ce66fccda2e9aec4006d6d67723206aac3778801d43d34d4f5b844baa2fd",
+      "doc_path": "pub/README",
+      "file": "vibevm/vibespecs/pub/README.md",
+      "heading": "Purpose and continuity",
+      "line": 60,
+      "uri": "spec://ai.lev/fpf-think/pub/README#purpose-and-continuity"
+    },
+    {
+      "anchor": "the-reference-and-its-editions",
+      "content_hash": "sha256:436a61dbb40b868a58d641105b9c041faa3d766db5ed9373169c36293c4d33f5",
+      "doc_path": "pub/README",
+      "file": "vibevm/vibespecs/pub/README.md",
+      "heading": "The Reference and its editions",
+      "line": 70,
+      "uri": "spec://ai.lev/fpf-think/pub/README#the-reference-and-its-editions"
+    },
+    {
+      "anchor": "rights-and-citation",
+      "content_hash": "sha256:d27b25cf4ce1652667ee7a85b1142109891e54793c1141fcbe39dd7812724883",
+      "doc_path": "pub/README",
+      "file": "vibevm/vibespecs/pub/README.md",
+      "heading": "Rights and citation",
+      "line": 76,
+      "uri": "spec://ai.lev/fpf-think/pub/README#rights-and-citation"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:0b2154d5c7521045ac99ac0fc3efb75bb012ecfc0e9de848cc22afa8f7e518fe",
+      "doc_path": "pub/REFERENCE",
+      "file": "vibevm/vibespecs/pub/REFERENCE.md",
+      "heading": "Foundational Thinking DPF Suite Reference",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-think/pub/REFERENCE#root"
+    },
+    {
+      "anchor": "root-2",
+      "content_hash": "sha256:1fad474fe3bd3c67956cd845682c24c06621e45c832f2ee6c29cfd1782849782",
+      "doc_path": "pub/REFERENCE",
+      "file": "vibevm/vibespecs/pub/REFERENCE.md",
+      "heading": "Foundational Thinking DPF Suite Reference",
+      "line": 7,
+      "uri": "spec://ai.lev/fpf-think/pub/REFERENCE#root-2"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:888550d9d1a86862a904d34d80a9e9fd0314150cabf61c66b804d7cccd7cdd00",
+      "doc_path": "pub/reference/contents",
+      "file": "vibevm/vibespecs/pub/reference/contents.md",
+      "heading": "Contents",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-think/pub/reference/contents#root"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:7a0f8ec9b440834458b0717826152a7b2198a950fe4f37262ca5361f05738690",
+      "doc_path": "pub/reference/s-1-start-with-a-working-question",
+      "file": "vibevm/vibespecs/pub/reference/s-1-start-with-a-working-question.md",
+      "heading": "1. Start with a working question",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-think/pub/reference/s-1-start-with-a-working-question#root"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:8c0925c476e6262b74ac4276900b29b48397a80362d8e9f447832ec73b12ac9f",
+      "doc_path": "pub/reference/s-2-what-this-suite-connects",
+      "file": "vibevm/vibespecs/pub/reference/s-2-what-this-suite-connects.md",
+      "heading": "2. What this Suite connects",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-think/pub/reference/s-2-what-this-suite-connects#root"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:13a0c661018bbdce562af708987c3a6967a5e9ed9f401009256cf9d26dee8c4c",
+      "doc_path": "pub/reference/s-3-working-combinations",
+      "file": "vibevm/vibespecs/pub/reference/s-3-working-combinations.md",
+      "heading": "3. Working combinations",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-think/pub/reference/s-3-working-combinations#root"
+    },
+    {
+      "anchor": "s-3-1-construct-an-unfamiliar-account",
+      "content_hash": "sha256:25f7eef3075f6ce06ab8645459126642b4e67abe45db0882deee263898ea32f6",
+      "doc_path": "pub/reference/s-3-working-combinations",
+      "file": "vibevm/vibespecs/pub/reference/s-3-working-combinations.md",
+      "heading": "3.1. Construct an unfamiliar account",
+      "line": 11,
+      "uri": "spec://ai.lev/fpf-think/pub/reference/s-3-working-combinations#s-3-1-construct-an-unfamiliar-account"
+    },
+    {
+      "anchor": "s-3-2-understand-and-change-a-construction",
+      "content_hash": "sha256:129162f4b286666f0f1727b363ef135709fd150d2b328e7cef869ab83269bf5d",
+      "doc_path": "pub/reference/s-3-working-combinations",
+      "file": "vibevm/vibespecs/pub/reference/s-3-working-combinations.md",
+      "heading": "3.2. Understand and change a construction",
+      "line": 23,
+      "uri": "spec://ai.lev/fpf-think/pub/reference/s-3-working-combinations#s-3-2-understand-and-change-a-construction"
+    },
+    {
+      "anchor": "s-3-3-choose-with-incomplete-information",
+      "content_hash": "sha256:cb0beafa2bef834931325931db918e16896318561ee2c1e862ede1de6dee1e7b",
+      "doc_path": "pub/reference/s-3-working-combinations",
+      "file": "vibevm/vibespecs/pub/reference/s-3-working-combinations.md",
+      "heading": "3.3. Choose with incomplete information",
+      "line": 41,
+      "uri": "spec://ai.lev/fpf-think/pub/reference/s-3-working-combinations#s-3-3-choose-with-incomplete-information"
+    },
+    {
+      "anchor": "s-3-4-obtain-a-result-under-limits",
+      "content_hash": "sha256:550638c38e3fe33e035249cf9ef3d72404917fee7ec7cae66ce133240a031ea1",
+      "doc_path": "pub/reference/s-3-working-combinations",
+      "file": "vibevm/vibespecs/pub/reference/s-3-working-combinations.md",
+      "heading": "3.4. Obtain a result under limits",
+      "line": 59,
+      "uri": "spec://ai.lev/fpf-think/pub/reference/s-3-working-combinations#s-3-4-obtain-a-result-under-limits"
+    },
+    {
+      "anchor": "s-3-5-continue-and-distribute-thinking",
+      "content_hash": "sha256:fc5a07cd9463b7cd8803c7cfafe2c6bb359765ac356b6cd7d2876d3c9fd8d0e1",
+      "doc_path": "pub/reference/s-3-working-combinations",
+      "file": "vibevm/vibespecs/pub/reference/s-3-working-combinations.md",
+      "heading": "3.5. Continue and distribute thinking",
+      "line": 75,
+      "uri": "spec://ai.lev/fpf-think/pub/reference/s-3-working-combinations#s-3-5-continue-and-distribute-thinking"
+    },
+    {
+      "anchor": "s-3-6-construct-and-change-an-algorithm",
+      "content_hash": "sha256:a7d9bcba51cfb8b0535100f45342d6249dacb6c0c36ee49f7d9997728bdc007b",
+      "doc_path": "pub/reference/s-3-working-combinations",
+      "file": "vibevm/vibespecs/pub/reference/s-3-working-combinations.md",
+      "heading": "3.6. Construct and change an algorithm",
+      "line": 103,
+      "uri": "spec://ai.lev/fpf-think/pub/reference/s-3-working-combinations#s-3-6-construct-and-change-an-algorithm"
+    },
+    {
+      "anchor": "s-3-7-carry-meaning-through-different-expressions",
+      "content_hash": "sha256:ad05152afccfbf62c8df1d9fd4a63343adb64a55454e1ff7a7457d41120aa03c",
+      "doc_path": "pub/reference/s-3-working-combinations",
+      "file": "vibevm/vibespecs/pub/reference/s-3-working-combinations.md",
+      "heading": "3.7. Carry meaning through different expressions",
+      "line": 115,
+      "uri": "spec://ai.lev/fpf-think/pub/reference/s-3-working-combinations#s-3-7-carry-meaning-through-different-expressions"
+    },
+    {
+      "anchor": "s-3-8-change-an-operating-flow-without-hiding-its-waiting",
+      "content_hash": "sha256:7bc26d535f726fa6b99d1663b509e7e3033c439071a50b3e4ea1439bc96fe409",
+      "doc_path": "pub/reference/s-3-working-combinations",
+      "file": "vibevm/vibespecs/pub/reference/s-3-working-combinations.md",
+      "heading": "3.8. Change an operating flow without hiding its waiting",
+      "line": 127,
+      "uri": "spec://ai.lev/fpf-think/pub/reference/s-3-working-combinations#s-3-8-change-an-operating-flow-without-hiding-its-waiting"
+    },
+    {
+      "anchor": "s-3-9-keep-the-vertical-visible-while-doing-the-work",
+      "content_hash": "sha256:62673b9172d70735f352a2fb12346d4bf378e34cf535b864ed09eb565c93e749",
+      "doc_path": "pub/reference/s-3-working-combinations",
+      "file": "vibevm/vibespecs/pub/reference/s-3-working-combinations.md",
+      "heading": "3.9. Keep the vertical visible while doing the work",
+      "line": 162,
+      "uri": "spec://ai.lev/fpf-think/pub/reference/s-3-working-combinations#s-3-9-keep-the-vertical-visible-while-doing-the-work"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:8171c72dbfb9be9a511e10b922d192dd0e6ef7584e95e8eb2b75bfd384460f0b",
+      "doc_path": "pub/reference/s-4-preparation-and-division-of-work",
+      "file": "vibevm/vibespecs/pub/reference/s-4-preparation-and-division-of-work.md",
+      "heading": "4. Preparation and division of work",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-think/pub/reference/s-4-preparation-and-division-of-work#root"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:cd892fe369ec5cdfae1d97d15df749547a54e3b048e71518913b42c3b4f4adb3",
+      "doc_path": "pub/reference/s-5-current-repertoire-and-its-limits",
+      "file": "vibevm/vibespecs/pub/reference/s-5-current-repertoire-and-its-limits.md",
+      "heading": "5. Current repertoire and its limits",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-think/pub/reference/s-5-current-repertoire-and-its-limits#root"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:8e82c9ae05b27732940716bd5c34279630c665b5dfc4317a8991595d41c58f6a",
+      "doc_path": "pub/reference/s-6-architectural-rationale",
+      "file": "vibevm/vibespecs/pub/reference/s-6-architectural-rationale.md",
+      "heading": "6. Architectural Rationale",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-think/pub/reference/s-6-architectural-rationale#root"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:cfb27588a16a694268c579740a1d32bee355e2c7d1706459235cddfccc248ca8",
+      "doc_path": "pub/reference/s-7-sources-and-conceptual-synthesis",
+      "file": "vibevm/vibespecs/pub/reference/s-7-sources-and-conceptual-synthesis.md",
+      "heading": "7. Sources and conceptual synthesis",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-think/pub/reference/s-7-sources-and-conceptual-synthesis#root"
+    },
+    {
+      "anchor": "root",
+      "content_hash": "sha256:d1a91b13887a2703908814ad209a9c81ba6e4961d75ab5a6ba4147aea7eb510f",
+      "doc_path": "pub/reference/s-8-using-and-revising-an-answer",
+      "file": "vibevm/vibespecs/pub/reference/s-8-using-and-revising-an-answer.md",
+      "heading": "8. Using and revising an answer",
+      "line": 1,
+      "uri": "spec://ai.lev/fpf-think/pub/reference/s-8-using-and-revising-an-answer#root"
+    }
+  ],
+  "suspects": [],
+  "warnings": []
+}
